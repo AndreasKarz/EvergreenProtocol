@@ -58,6 +58,7 @@ Nach der Baseline Phase soll das Evergreen Protocol gestartet werden. Perplexity
 - [Doktor Weigl](https://www.youtube.com/@DoktorWeigl1)
 - [Bryan Johnson](https://www.youtube.com/@BryanJohnson)
 - [Dr. Adam Potts](https://www.youtube.com/@beginwithbreathtaichi)
+- [Vince Gironda](https://www.sportnahrung-engel.de/trainingsplaene/muskelaufbau-fortgeschrittene/8x8-training-vince-gironda)
 
 ## Supplements
 Produkte immer über [iHerb](https://www.iherb.com/) bestellen, da es dort die grösste Auswahl und die besten Preise gibt.
@@ -69,9 +70,11 @@ Produkte immer über [iHerb](https://www.iherb.com/) bestellen, da es dort die g
 ### Skills
 - [notion-architect](Perplexity\skills\notion-architect)
 - [longevity-expert](Perplexity\skills\longevity-expert)
+- personal-trainer [TODO] (Dr. Adam Potts, Vince Gironda et.) - kann Übungen gut erklären und Couch Potatos motivieren.
 
 #### Köche Skills
-- Stefan Jaeckel [TODO]
+Damit gesunde Küche auch schmeckt, sollen 5 top köche als skills bereit stehen. **Alle** Köche haben auf Zucker zu verzichten und stattdessen Alulose und Glycin zu verwenden. Honig nur wenn es nicht anders geht. Und immer das Motto "Fett ist gut, Kohlenhydrate sind böse" im Hinterkopf zu behalten. Es soll gezeigt werden, dass gesunde Ernährung nicht Verzicht bedeutet, sondern Genuss pur sein kann.
+- Stefan Jaeckel [TODO] https://www.gaultmillau.ch/starchefs/und-wo-gehen-sie-gern-essen-stefan-jackel-819721
 - [Andreas Caminada](Perplexity\skills\andreas-caminada)
 - [Michel Guerard](Perplexity\skills\michel-guerard)
 - [Tim Armann](Perplexity\skills\tim-armann)
