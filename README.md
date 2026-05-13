@@ -41,17 +41,38 @@ Nach der Baseline Phase soll das Evergreen Protocol gestartet werden. Perplexity
 3. Perplexity gibt basierend auf den Daten eine detaillierte Analyse aus und passt bei Bedarf die Supplementierung in Notion an.  
 4. Perplexity motiviert den Benutzer, indem es die Fortschritte hervorhebt und Tipps gibt.
 
+## Schwerpunkte
+- kein Zucker (dafür Alulose und Clycin)
+- Fasten, fasten, fasten (schon dadurch wird man fitter und motivierter)
+- Authophagie fördern (durch Fasten, Spermidin, etc.)
+- Leber entlasten (durch Fasten, Glycin, etc.)
+- Cortisol senken (durch Fasten, Meditation, etc.)
+- Alzheimer, ADHS, Demenz Prävention / Reduktion.
 
-Meine Antiaging Playlist
- 
-Wem ich folge auf YouTube (den einen oder anderen wirst Du schon kennen)
-Dr. Eric Berg https://www.youtube.com/@Drberg
-Dr. Sten Ekberg https://www.youtube.com/@drekberg
-Dr. med. Ulrich Selz  https://www.youtube.com/@DrUlrichSelz
-Dr. med. Ulrich Bauhofer https://www.youtube.com/@dr.ulrich.bauhofer
-Doktor Weigl https://www.youtube.com/@DoktorWeigl1
-Bryan Johnson https://www.youtube.com/@BryanJohnson
-Dr. Adam Potts https://www.youtube.com/@beginwithbreathtaichi 
+## Ressourcen
+- [Meine Antiaging Playlist](https://youtube.com/playlist?list=PLriKR1xQz6aIDFCN1oKTB0zmASZ_qUOfX&si=tz11ODSx72V7aYbv)
+- [Dr. Eric Berg](https://www.youtube.com/@Drberg)
+- [Dr. Sten Ekberg](https://www.youtube.com/@drekberg)
+- [Dr. med. Ulrich Selz](https://www.youtube.com/@DrUlrichSelz)
+- [Dr. med. Ulrich Bauhofer](https://www.youtube.com/@dr.ulrich.bauhofer)
+- [Doktor Weigl](https://www.youtube.com/@DoktorWeigl1)
+- [Bryan Johnson](https://www.youtube.com/@BryanJohnson)
+- [Dr. Adam Potts](https://www.youtube.com/@beginwithbreathtaichi)
 
-https://www.iherb.com/
+## Supplements
+Produkte immer über [iHerb](https://www.iherb.com/) bestellen, da es dort die grösste Auswahl und die besten Preise gibt.
 
+## Perplexity Space
+- [Instructions](Perplexity\Space Instructions.md)
+- [Me.md](Perplexity\Me.md) ist die Vorlage
+
+### Skills
+- [notion-architect](Perplexity\skills\notion-architect)
+- [longevity-expert](Perplexity\skills\longevity-expert)
+
+#### Köche Skills
+- Stefan Jaeckel [TODO]
+- [Andreas Caminada](Perplexity\skills\andreas-caminada)
+- [Michel Guerard](Perplexity\skills\michel-guerard)
+- [Tim Armann](Perplexity\skills\tim-armann)
+- [Zineb Hattab](Perplexity\skills\zineb-hattab)
