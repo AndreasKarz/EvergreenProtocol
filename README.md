@@ -1,15 +1,30 @@
 # EvergreenProtocol
 
 ## Die Idee
-Ich möchte einen public [Perplexity Space](https://www.perplexity.ai/hub/blog/a-student-s-guide-to-using-perplexity-spaces) erstellen, der Menschen hilft, gesünder, fitter und jünger zu werden - frei nach dem Motto: "Die young, at late as possible".
+Ich möchte einen öffentlichen [Perplexity Space](https://www.perplexity.ai/hub/blog/a-student-s-guide-to-using-perplexity-spaces) erstellen, der Menschen hilft, gesünder, fitter und jünger zu werden - frei nach dem Motto: "Die young, as late as possible".
 
-Der Schlüssel dabeiliegt im Darm, in der Leber und der böse Lümmel ist das Cortisol.
+Der Space soll geteilt werden können, ohne dass Benutzer gegenseitig ihre Chats, Gesundheitsdaten oder Notion-Inhalte sehen. Jeder Benutzer arbeitet in seiner eigenen Perplexity-Session und mit seinem eigenen Notion-Workspace.
 
-Beste Erfahrung habe ich mit Fasten gemacht. Nur Mittwoch, Samstag, Sonntag essen. Bei eine Plateau 10 Tage Wasserfasten. Gute Supplements wie Glycin, Lithium, Spermidin etc. - für die Küche zum süssen Alulose. Ziel ist es, ohne Verzicht auf Genuss die Autophagie zu fördern, die Leber zu entlasten und den Cortisolspiegel zu senken. Zusätzlich sollen typische Alterleiden wie Demenz, Krebs, Herz-Kreislauf-Erkrankungen, Diabetes, Osteoporose, etc. vermieden oder zumindest reduziert werden.
+Der Schlüssel liegt im Darm, in der Leber und im Cortisol. Das EvergreenProtocol betrachtet Gesundheit nicht als lose Sammlung von Tipps, sondern als messbares, iteratives Lebensprotokoll: Daten sammeln, Muster erkennen, Hypothesen bilden, Interventionen testen, Ergebnisse beobachten und nachjustieren.
 
-zusätzlich Sport - Thai Chi als tägliche Routinen morgensund abends sowie mindestens 3x die Woche 8*8*8 Training. Hier soll der Schwerpunkt auf Motivation liegen, da die meisten Menschen mit gesundheitlichen Problemen keine Motivation haben.
+Die Haltung ist bewusst mutig und mechanistisch. Der Space soll nicht wie ein Standard-Arzt antworten, sondern wie ein Forscher, Tüftler und Alchemist: neugierig, präzise, datengetrieben, mit biologischer Tiefe. Gleichzeitig braucht er klare Stoppsignale bei offensichtlichen Risiken, Kontraindikationen oder medizinischen Notfällen.
 
-Die Daten sollen in einer persönlichen [Notion Datenbank](https://www.notion.so/) mit Dashboard und Kalender gesammelt werden, um Fortschritte zu verfolgen und Anpassungen vorzunehmen.
+Beste Erfahrung habe ich mit Fasten gemacht: nur Mittwoch, Samstag und Sonntag essen. Bei einem Plateau kann ein längeres Wasserfasten ein Werkzeug sein, muss aber sauber vorbereitet, begleitet und anhand von Risikofaktoren bewertet werden. Gute Supplements wie Glycin, Lithium, Spermidin etc. können gezielt eingesetzt werden. Für die Küche wird zum Süssen Alulose verwendet, ergänzt durch Glycin, wenn es kulinarisch passt.
+
+Ziel ist es, ohne Verzicht auf Genuss die Autophagie zu fördern, die Leber zu entlasten und Cortisol zu senken. Zusätzlich sollen typische Altersleiden wie Demenz, Krebs, Herz-Kreislauf-Erkrankungen, Diabetes und Osteoporose vermieden oder zumindest reduziert werden.
+
+Die Ernährungsphilosophie ist klar: kein Zucker, wenig strategische Kohlenhydrate, gesunde Fette als Hauptenergiequelle, ausreichend Protein an Esstagen. Kohlenhydrate sind nicht absolut verboten, aber sie sind nicht die Basis des Protokolls.
+
+Dazu kommt Bewegung: Tai Chi als tägliche Morgen- und Abendroutine, mindestens 8000 Schritte pro Tag sowie mindestens 3x pro Woche 8x8x8-Training. 8x8x8 soll für alle funktionieren, weil die Belastung skaliert wird: Anfänger starten mit Körpergewicht und sehr einfachen Übungen, danach folgt TRX, danach Hanteln oder Gym.
+
+Die Daten werden in einer persönlichen [Notion Datenbank](https://www.notion.so/) mit Dashboard und Kalender gesammelt, um Fortschritte zu verfolgen und Anpassungen vorzunehmen.
+
+## Grundprinzipien
+- **Public Space, private Daten:** Der Perplexity Space ist teilbar, aber jeder Benutzer arbeitet mit eigener Session und eigenem Notion-Workspace.
+- **Notion als Gedächtnis:** Perplexity analysiert und entscheidet im Chat, Notion speichert Profil, Baseline, Tageswerte, Interventionen, Supplements, Training, Schlaf, Blutdruck, Gewicht und Fortschritt.
+- **Mutig, aber nicht blind:** Keine generischen Standardempfehlungen, aber klare Red Flags bei gefährlichen Symptomen, Essstörungen, Schwangerschaft, schweren Erkrankungen, Medikamenteninteraktionen oder extremen Fastenrisiken.
+- **Mechanistisch statt moralisch:** Jede Empfehlung soll erklären, welcher biologische Hebel angesprochen wird: mTOR, AMPK, Autophagie, Insulin, Cortisol, Schlafdruck, Leberlast, Mikrobiom, Entzündung, Muskelreiz.
+- **Genuss statt Verzicht:** Die Koch-Skills zeigen, dass gesunde Ernährung nicht karg sein muss. Zucker wird ersetzt, Geschmack nicht.
 
 ## Voraussetzungen
 - Waage mit Körperanalysefunktion (z.B. [Beurer BF 500](https://www.apfelkiste.ch/beurer-diagnosewaage-bf-500-led-personen-waage-zur-korperanalyse-batterie-76011-schwarz.html))
@@ -21,36 +36,66 @@ Die Daten sollen in einer persönlichen [Notion Datenbank](https://www.notion.so
 ## Workflow
 
 ### Erste Schritte
-1. Als erstes soll geprüft werden, ob der Benutzer die `Perplexity\Me.md` hochgeladen hat. Falls nicht, soll im erklärt werden, wie man in Notion einen Account erstellt und wie man den Link dazu erhält.
+1. Prüfen, ob der Benutzer einen eigenen Notion-Account und einen leeren oder vorbereiteten Notion-Workspace besitzt. Falls nicht, erklärt der Space, wie man Notion einrichtet.
 
-2. Als erstes soll geprüft werden, ob der Benutzer die `Perplexity\Me.md` hochgeladen hat. Falls nicht, soll eine Vorlage bereitgestellt werden, die der Benutzer ausfüllen und hochladen kann. Diese Vorlage enthält Informationen wie Name, Vorname, Alter, Geschlecht, aktuelles Gewicht, Beruf, Notion.ai Link, Pain Points und Ziele.
+2. Prüfen, ob der Benutzer die `Perplexity/Me.md` hochgeladen hat. Falls nicht, stellt der Space die Vorlage bereit und erklärt: Datei herunterladen, ausfüllen, wieder in den Space hochladen.
 
-3. Danach prüfen, ob in Perplexity der Notion Connector aktiviert ist. Falls nicht, soll eine Anleitung bereitgestellt werden, wie man den Notion Connector aktiviert und mit seinem Notion Account verbindet.
+3. Die `Me.md` enthält mindestens Name, Vorname, Alter, Geschlecht, aktuelles Gewicht, Beruf, Notion-Link, Pain Points, aktuelle Diagnosen, aktuelle Medikamente, Supplemente sowie bekannte Allergien oder Unverträglichkeiten. Ziele, Trainingsstand und Essmuster werden danach im Gespräch und über die Baseline erhoben.
 
-4. Wenn alles eingerichtet ist, soll Perplexity in Notion die Datenbanken und das Dashboard erstellen.
+4. Danach prüfen, ob in Perplexity der Notion Connector aktiviert ist. Falls nicht, stellt der Space eine Anleitung bereit, wie man den Notion Connector aktiviert und mit dem eigenen Notion-Account verbindet.
 
-5. Danach soll Perplexity die `Me.md` Datei analysieren und die Informationen in die Notion Datenbank eintragen.
+5. Wenn alles eingerichtet ist, hilft der `notion-architect`, im persönlichen Notion-Workspace die Datenbanken, Relationen, Views, Kalender und das Dashboard zu erstellen.
+
+6. Danach analysiert Perplexity die `Me.md` und trägt die Informationen in die Notion-Datenbanken ein.
 
 ### Baseline schaffen
-Die ersten 7 Tage sollen dazu genutzt werden, eine Baseline zu schaffen. Das bedeutet, dass der Benutzer jeden Morgen seine Daten wie Gewicht, Blutdruck, Schlafqualität, etc. als Screenshot in den Chat im Perplexity Space hochlädt. Perplexity soll diese Daten analysieren und in der Notion Datenbank speichern, um Fortschritte zu verfolgen.
+Die ersten 7 Tage dienen dazu, eine Baseline zu schaffen. Der Benutzer lädt jeden Morgen seine Daten als Screenshot in den Perplexity Space hoch: Gewicht, Körperanalyse, Blutdruck, Puls, Schlafqualität, Schlafdauer, Tiefschlaf, REM, HRV, Ruhepuls, Schritte und subjektives Befinden.
+
+Perplexity analysiert diese Daten, speichert sie in Notion und bewertet nicht einzelne Ausreisser, sondern Muster: 7-Tage-Mittelwert, Varianz, Trend, Korrelationen und auffällige Signale.
+
+Am Ende der Baseline erstellt Perplexity eine erste Supplementierung. Diese basiert auf Profil, Diagnosen, Medikamenten, bestehenden Supplementen, Schlafdaten, Stressmustern, Gewicht, Blutdruck, Pain Points und den im Onboarding geklärten Zielen. Die Supplementierung wird als Intervention in Notion dokumentiert und später im Daily Loop angepasst.
+
+#### Beispiel-Screenshots für den Baseline-Capture
+Die Dateien unter `Perplexity/.sample screenshots/` zeigen, wie Benutzer ihre Gesundheitsdaten später direkt in den Perplexity-Chat hochladen. Diese Screenshots sind keine Design-Mockups, sondern realistische Eingaben für die Extraktion und Speicherung in Notion.
+
+Aktuell abgedeckte Screenshot-Typen:
+- **Körperanalyse / Waage:** Gewicht, BMI, Körperfett, Fettmasse, fettfreies Körpergewicht, Muskelmasse, Muskelrate, Skelettmuskulatur, Knochenmasse, Eiweissmenge, Wassergehalt, viszerales Fett, BMR, biologisches Alter, ideales Körpergewicht, Adipositasgrad.
+- **Blutdruck:** Durchschnitt, höchster Wert, niedrigster Wert, systolisch/diastolisch, Datum.
+- **Blutsauerstoff:** Durchschnitt, höchster Wert, niedrigster Wert, SpO2-Verlauf, Datum.
+- **Schlaf:** Schlafdauer, Tiefschlaf, Leichtschlaf, REM, Schlafunterbrechungen, Schlafzeitfenster, Datum.
+- **Herzfrequenz:** Durchschnitt, höchster Wert, niedrigster Wert, Tagesverlauf, Datum.
+
+Diese Beispiele dienen als Referenz für den `notion-architect` und den Baseline-Capture: Perplexity muss die sichtbaren Werte erkennen, fehlende Werte nicht erfinden, Einheiten korrekt übernehmen und die Daten in die passenden Notion-Datenbanken schreiben.
 
 ### Das Evergreen Protocol
-Nach der Baseline Phase soll das Evergreen Protocol gestartet werden. Perplexity soll dem Benutzer täglich Empfehlungen geben, basierend auf den gesammelten Daten und den Zielen, die in der `Me.md` Datei angegeben sind. Diese Empfehlungen können Fasten, Ernährungstipps, Supplemente, Sportübungen, Meditationstechniken, etc. umfassen.
+Nach der Baseline-Phase startet das Evergreen Protocol. Perplexity gibt dem Benutzer täglich Empfehlungen, basierend auf den gesammelten Daten, der `Me.md`, den Notion-Trends und den Zielen. Diese Empfehlungen können Fasten, Ernährung, Supplemente, Training, Tai Chi, Meditation, Schlaf, Atemübungen, Leberentlastung, Cortisol-Management und Küchenideen umfassen.
 
 #### Daily Loop
 1. Der Benutzer lädt morgens seine Daten als Screenshot hoch.
-2. Perplexity analysiert die Daten der letzten Nacht sowie der den Verlauf der letzten 14 Tage.
-3. Perplexity gibt basierend auf den Daten eine detaillierte Analyse aus und passt bei Bedarf die Supplementierung in Notion an.  
-4. Perplexity motiviert den Benutzer, indem es die Fortschritte hervorhebt und Tipps gibt.
+2. Perplexity analysiert die letzte Nacht, den aktuellen Morgen und den Verlauf der letzten 14 Tage.
+3. Perplexity gibt eine tief analytische, mechanistische Auswertung aus: Was hat sich verändert, welche Hypothesen erklären es, welcher Hebel ist heute am wichtigsten?
+4. Perplexity passt bei Bedarf Supplementierung, Training, Fastenfenster oder Erholung in Notion an.
+5. Perplexity motiviert den Benutzer, indem es Fortschritte sichtbar macht, Reibung reduziert und die nächste machbare Handlung empfiehlt.
+
+### Training Progression
+8x8x8 ist das Standard-Kraftprotokoll, aber die Belastung wird individuell skaliert.
+
+1. **Stufe 1 - Körpergewicht:** sehr einfache Übungen, saubere Bewegung, niedrige Einstiegshürde.
+2. **Stufe 2 - TRX:** mehr Bewegungsumfang, bessere Rumpfstabilität, dosierbare Zug- und Druckübungen.
+3. **Stufe 3 - Hanteln/Gym:** progressive Last, Hypertrophie, Kraft, metabolischer Reiz.
+
+Der Schwerpunkt liegt auf Motivation. Viele Menschen mit gesundheitlichen Problemen haben nicht zu wenig Information, sondern zu wenig Energie, Vertrauen und positive Rückkopplung.
 
 ## Schwerpunkte
-- kein Zucker (dafür Alulose und Clycin)
+- kein Zucker (dafür Alulose und Glycin)
 - Fasten, fasten, fasten (schon dadurch wird man fitter und motivierter)
-- Authophagie fördern (durch Fasten, Spermidin, etc.)
+- Autophagie fördern (durch Fasten, Spermidin, etc.)
 - Leber entlasten (durch Fasten, Glycin, etc.)
 - Cortisol senken (durch Fasten, Meditation, etc.)
 - Alzheimer, ADHS, Demenz Prävention / Reduktion.
-- täglich mindestens 8000 Schritte gehen, täglich Thai Chi.
+- täglich mindestens 8000 Schritte gehen, täglich Tai Chi.
+- gesunde Fette als Hauptenergiequelle, Kohlenhydrate nur strategisch.
+- Supplementierung datenbasiert starten und im Verlauf anpassen.
 
 ## Ressourcen
 - [Meine Antiaging Playlist](https://youtube.com/playlist?list=PLriKR1xQz6aIDFCN1oKTB0zmASZ_qUOfX&si=tz11ODSx72V7aYbv)
@@ -67,18 +112,18 @@ Nach der Baseline Phase soll das Evergreen Protocol gestartet werden. Perplexity
 Produkte immer über [iHerb](https://www.iherb.com/) bestellen, da es dort die grösste Auswahl und die besten Preise gibt.
 
 ## Perplexity Space
-- [Instructions](Perplexity\Space Instructions.md)
-- [Me.md](Perplexity\Me.md) ist die Vorlage
+- [Instructions](Perplexity/Space Instructions.md)
+- [Me.md](Perplexity/Me.md) ist die Vorlage
 
 ### Skills
-- [notion-architect](Perplexity\skills\notion-architect)
-- [longevity-expert](Perplexity\skills\longevity-expert)
-- personal-trainer [TODO] (Dr. Adam Potts, Vince Gironda et.) - kann Übungen gut erklären und Couch Potatos motivieren.
+- [notion-architect](Perplexity/skills/notion-architect)
+- [longevity-expert](Perplexity/skills/longevity-expert)
+- [personal-trainer](Perplexity/skills/personal-trainer) - Tai Chi, 8x8x8, Progression und Motivation.
 
 #### Köche Skills
 Damit gesunde Küche auch schmeckt, sollen 5 top köche als skills bereit stehen. **Alle** Köche haben auf Zucker zu verzichten und stattdessen Alulose und Glycin zu verwenden. Honig nur wenn es nicht anders geht. Und immer das Motto "Fett ist gut, Kohlenhydrate sind böse" im Hinterkopf zu behalten. Es soll gezeigt werden, dass gesunde Ernährung nicht Verzicht bedeutet, sondern Genuss pur sein kann.
-- Stefan Jaeckel [TODO] https://www.gaultmillau.ch/starchefs/und-wo-gehen-sie-gern-essen-stefan-jackel-819721
-- [Andreas Caminada](Perplexity\skills\andreas-caminada)
-- [Michel Guerard](Perplexity\skills\michel-guerard)
-- [Tim Armann](Perplexity\skills\tim-armann)
-- [Zineb Hattab](Perplexity\skills\zineb-hattab)
+- [Stefan Jäckel](Perplexity/skills/stefan-jaeckel) - Zürcher Umami, Rôtisserie, Sauce und High-Low-Genuss.
+- [Andreas Caminada](Perplexity/skills/andreas-caminada)
+- [Michel Guerard](Perplexity/skills/michel-guerard)
+- [Tim Armann](Perplexity/skills/tim-armann)
+- [Zineb Hattab](Perplexity/skills/zineb-hattab)
