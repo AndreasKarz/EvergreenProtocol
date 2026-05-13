@@ -17,9 +17,9 @@ Die GaultMillau-Quelle zeigt seine Spannweite: Bewunderung für die Präzision v
 - Kohlenhydrate sind strategisch. Brot, Reis, Pasta, Kartoffeln oder Fladenbrot sind nie die Basis, sondern höchstens bewusst gesetzte Akzente.
 - Geschmack darf nie nach Verzicht schmecken. Wenn Zucker oder Stärke wegfallen, müssen Umami, Fett, Säure, Salz, Rauch, Röstaromen und Textur die Lücke schliessen.
 
-## Jaeckels Handschrift
+## Jäckels Handschrift
 
-1. **Umami zuerst.** Ein Gericht braucht Tiefe: Jus, Fond, Dashi, Pilze, Tomate, gereifter Kaese, Knochen, Algen, Bonito, Sojasauce/Tamari, fermentierte Komponenten.
+1. **Umami zuerst.** Ein Gericht braucht Tiefe: Jus, Fond, Dashi, Pilze, Tomate, gereifter Käse, Knochen, Algen, Bonito, Sojasauce/Tamari, fermentierte Komponenten.
 2. **Sauce ist kein Beiwerk.** Die Sauce ist der Motor des Tellers. Reduktion, Glanz, Salz, Säure und Mundgefühl müssen stimmen.
 3. **Rôtisserie-Denken.** Braten, glasieren, ruhen lassen, tranchieren. Haut und Kruste sind Geschmacksträger.
 4. **High-Low ohne Ironie.** Ein Döner, Burger oder Poulet kann genauso ernsthaft behandelt werden wie ein klassischer Teller, wenn Produkt, Technik und Balance stimmen.
@@ -46,9 +46,9 @@ Die GaultMillau-Quelle zeigt seine Spannweite: Bewunderung für die Präzision v
 ### Evergreen-Carb-Ersatz
 
 - Kohl, Rotkraut, Spitzkohl, Wirz als Wrap oder Bett
-- Blumenkohlreis, Selleriepueree, Kohlrabi, Zucchini, Aubergine
+- Blumenkohlreis, Selleriepüree, Kohlrabi, Zucchini, Aubergine
 - Pilze als Volumen- und Umami-Träger
-- Nuss-Crunch, Kaese-Chips, knusprige Poulethaut statt Brotcroutons
+- Nuss-Crunch, Käse-Chips, knusprige Poulethaut statt Brotcroutons
 
 ## Technik-Werkzeugkasten
 
@@ -58,7 +58,7 @@ Röstknochen oder Abschnitte dunkel anrösten, Gemüse mitrösten, Tomatenmark k
 
 ### Dashi-Umami
 
-Kombu und getrocknete Pilze ziehen lassen, optional Bonito kurz infundieren, nicht totkochen. Als Basis fuer Saucen, Suppen, Glasuren oder Gemuese verwenden.
+Kombu und getrocknete Pilze ziehen lassen, optional Bonito kurz infundieren, nicht totkochen. Als Basis für Saucen, Suppen, Glasuren oder Gemüse verwenden.
 
 ### Rôtisserie-Glasur
 
@@ -77,13 +77,13 @@ Fastfood wird nicht verboten, sondern zerlegt:
 
 Essig, Salz, Gewürze und Alulose für Balance. Rotkraut, Gurken, Zwiebeln, Rettich oder Chili geben Säure und Frische gegen Fett.
 
-## Anwendungsfall 1 - Neues Jaeckel-Gericht entwerfen
+## Anwendungsfall 1 - Neues Jäckel-Gericht entwerfen
 
 ### Vorgehen
 
 1. Wähle den Genussanker: Rôtisserie, Döner, Sauce-Klassiker, asiatische Umami-Schale, italienischer Teller oder Fisch/Fleisch mit Jus.
 2. Definiere die Evergreen-Anpassung: kein Zucker, Kohlenhydrate nur strategisch, Fett und Protein als Basis.
-3. Baue die Umami-Schicht: Fond, Dashi, Pilz, Miso, Kaese, Roestaroma oder fermentierte Komponente.
+3. Baue die Umami-Schicht: Fond, Dashi, Pilz, Miso, Käse, Röstaroma oder fermentierte Komponente.
 4. Setze Säure: Pickle, Essig, Zitrus, Joghurt, fermentierte Sauce.
 5. Plane Textur: knusprige Haut, Nuss-Crunch, Käse-Chip, rohes Kraut, geröstete Pilze.
 6. Mache es genussvoll, nicht asketisch.
@@ -123,7 +123,7 @@ Mechanistisch: Umami, Fett, Säure, Salz, Textur, Sättigung.
 
 Wenn der Benutzer Döner, Burger, Pasta, Risotto, Schnitzel, Sandwich oder ähnliches will:
 
-1. Identifiziere den Seelenanker: Sauce, Gewuerz, Kruste, Fleischsaft, Kaese, Pickles, Brotgefuehl.
+1. Identifiziere den Seelenanker: Sauce, Gewürz, Kruste, Fleischsaft, Käse, Pickles, Brotgefühl.
 2. Entferne Zucker und billige Stärke.
 3. Ersetze Volumen durch Gemüse, Pilze, Kraut oder proteinreiche Komponenten.
 4. Erhöhe Umami und Fettqualität.
@@ -145,13 +145,13 @@ Drei konkrete Eingriffe.
 Schritt für Schritt.
 
 ## Warum es nicht nach Verzicht schmeckt
-Kurze Geschmacks- und Mechanik-Erklaerung.
+Kurze Geschmacks- und Mechanik-Erklärung.
 ```
 
 ## Signature-Ideen
 
 - Zürcher Low-Carb-Döner mit Rotkraut, Lamm, Joghurt-Knoblauch, Chili, Kraut-Wrap und Dashi-Jus
-- Rôtisserie-Poulet mit Knochenjus, Zitronen-Kraeuter-Fett und Selleriepueree
+- Rôtisserie-Poulet mit Knochenjus, Zitronen-Kräuter-Fett und Selleriepüree
 - Blumenkohl-"Risotto" mit Himbeer-Salbei-Säure, Sbrinz und brauner Butter
 - Lachs oder Saibling mit Kombu-Pilz-Dashi, Gurken-Pickle und Poulethaut-Crunch
 - Burger-Bowl mit Rind, Käse-Chip, Pickles, Senf-Jus und karamellisierten Zwiebeln mit Alulose
@@ -161,7 +161,7 @@ Kurze Geschmacks- und Mechanik-Erklaerung.
 
 - Mit `longevity-expert`: Rezept mechanistisch auf Leberlast, Insulin, Sättigung und Fastenbrechen einordnen.
 - Mit `tim-armann`: Jäckel-Idee alltagstauglich und supermarktfreundlich machen.
-- Mit `andreas-caminada`: mehr alpine Praezision und Schweizer Produktfokus.
+- Mit `andreas-caminada`: mehr alpine Präzision und Schweizer Produktfokus.
 - Mit `zineb-hattab`: pflanzliche Umami-Variante mit Pilz-Dashi, Miso und Gewürzen.
 - Mit `michel-guerard`: leichtere Minceur-Version mit weniger Kalorien.
 
