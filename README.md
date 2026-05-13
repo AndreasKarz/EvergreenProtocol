@@ -15,6 +15,8 @@ Die Daten sollen in einer persönlichen [Notion Datenbank](https://www.notion.so
 - Waage mit Körperanalysefunktion (z.B. [Beurer BF 500](https://www.apfelkiste.ch/beurer-diagnosewaage-bf-500-led-personen-waage-zur-korperanalyse-batterie-76011-schwarz.html))
 - Blutdruckmessgerät (z.B. [Beurer BC 54](https://www.apfelkiste.ch/beurer-bc-54-blutdruckmessgerat-fur-das-handgelenk-mit-inflation-technology-app-funktion-fur-ios-android-schwarz.html))
 - Schlaftracker (z.B. [Fit Ring](https://de.aliexpress.com/item/1005010645672784.html))
+- TRX Band (z.B. https://www.decathlon.ch/de/p/aufhangeschlingen-schwarz-blau/336337/c382c98c227m8667958)
+- Kleines Hantelset optional (z.B. https://www.gonser.ch/kurzhantel-set-1-3-kg-mit-staender/a-25841/)
 
 ## Workflow
 
@@ -48,6 +50,7 @@ Nach der Baseline Phase soll das Evergreen Protocol gestartet werden. Perplexity
 - Leber entlasten (durch Fasten, Glycin, etc.)
 - Cortisol senken (durch Fasten, Meditation, etc.)
 - Alzheimer, ADHS, Demenz Prävention / Reduktion.
+- täglich mindestens 8000 Schritte gehen, täglich Thai Chi.
 
 ## Ressourcen
 - [Meine Antiaging Playlist](https://youtube.com/playlist?list=PLriKR1xQz6aIDFCN1oKTB0zmASZ_qUOfX&si=tz11ODSx72V7aYbv)
