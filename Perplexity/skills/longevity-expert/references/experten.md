@@ -1,6 +1,6 @@
 # Experten-Referenz
 
-Diese Experten verfolgt Andreas regelmässig. Bei thematisch passenden Fragen als Quellen erwähnen, ihre Positionen einordnen und bei Widersprüchen zwischen ihnen (oder mit Studienlage) dies explizit benennen. Nicht zwanghaft zitieren – nur wenn inhaltlich weiterführend.
+Diese Experten und Quellen nutzt das EvergreenProtocol als Inspirations- und Einordnungsrahmen. Bei thematisch passenden Fragen als Quellen erwähnen, ihre Positionen einordnen und bei Widersprüchen zwischen ihnen (oder mit Studienlage) dies explizit benennen. Nicht zwanghaft zitieren - nur wenn inhaltlich weiterführend.
 
 ## Patric Heizmann
 - **Kanal:** https://www.youtube.com/@patricheizmann
@@ -12,7 +12,7 @@ Diese Experten verfolgt Andreas regelmässig. Bei thematisch passenden Fragen al
 - **Kanal:** https://www.youtube.com/@Drberg
 - **Profil:** US-Chiropraktiker, sehr grosser YouTube-Kanal. Fokus auf Keto, Intermittent Fasting, Mikronährstoffe.
 - **Stärken:** Breites Spektrum an Ernährungs- und Supplement-Themen, eingängig erklärt.
-- **Einordnung:** Populärwissenschaftlich, stark Keto-gewichtet. Studienbasis prüfen, Aussagen zu Dosierungen gegen Primärliteratur abgleichen. Bei Andreas' Setup (3 Esstage/Woche, high protein, no sugar) gut kompatibel.
+- **Einordnung:** Populärwissenschaftlich, stark Keto-gewichtet. Studienbasis prüfen, Aussagen zu Dosierungen gegen Primärliteratur abgleichen. Mit dem Evergreen-Setup (Fasten, high protein an Esstagen, no sugar) oft gut kompatibel.
 
 ## Dr. Sten Ekberg
 - **Kanal:** https://www.youtube.com/@drekberg
@@ -48,7 +48,7 @@ Diese Experten verfolgt Andreas regelmässig. Bei thematisch passenden Fragen al
 - **Kanal:** https://www.youtube.com/@formelfroboese
 - **Profil:** Universitätsprofessor an der Deutschen Sporthochschule Köln (DSHS), Lehrstuhl Prävention und Rehabilitation im Sport. Bestseller-Autor ("Muskeln – die Gesundmacher", "Der Stoffwechsel-Kompass"), gefragter Medien-Experte (ARD, n-tv, Men's Health u.a.).
 - **Stärken:** Muskelgesundheit und Myokine (Muskeln als Stoffwechselorgan und Signalgeber), Krafttraining im Alter ("Use it or lose it"), Rückenschmerzen und Bewegungsapparat, Prävention und Rehabilitation, Stoffwechsel-Optimierung, Fasten und Essenspausen.
-- **Einordnung:** Wissenschaftlich fundiert und akademisch abgesichert – stärker als reine Populär-YouTuber. Mechanistische Tiefe bei Muskel- und Bewegungsthemen (Myokine, Sarkopenieprävention), weniger bei molekularbiologischen Anti-Aging-Pfaden (mTOR, Senolytika). Besonders relevant für Andreas' 8x8x8-Protokoll und die Frage nach optimaler Trainingsstruktur im intensiven Regime. Bei Widersprüchen zwischen Froböse (Prävention/Rehabilitation) und Primärliteratur zu Hochintensitäts-Protokollen: Studienlage prüfen.
+- **Einordnung:** Wissenschaftlich fundiert und akademisch abgesichert - stärker als reine Populär-YouTuber. Mechanistische Tiefe bei Muskel- und Bewegungsthemen (Myokine, Sarkopenieprävention), weniger bei molekularbiologischen Anti-Aging-Pfaden (mTOR, Senolytika). Besonders relevant für das 8x8x8-Protokoll und die Frage nach optimaler Trainingsstruktur im intensiven Regime. Bei Widersprüchen zwischen Froböse (Prävention/Rehabilitation) und Primärliteratur zu Hochintensitäts-Protokollen: Studienlage prüfen.
 
 ## Bryan Johnson
 - **Kanal:** https://www.youtube.com/@BryanJohnson

@@ -11,6 +11,15 @@ Dein Job - ein Gericht entwerfen, das technisch auf Drei-Sterne-Niveau steht, ab
 
 ---
 
+## Evergreen-Regeln
+
+- Kein Zucker. Wenn Süsse nötig ist: Alulose, bei passendem Geschmacksbild Glycin.
+- Honig nur, wenn es kulinarisch wirklich nicht anders geht, und dann sparsam.
+- Gesunde Fette sind willkommen; Kohlenhydrate sind strategische Akzente, nicht die Basis.
+- Geschmack darf nie nach Verzicht schmecken. Umami, Fett, Säure, Salz, Röstaromen und Textur müssen die Lücke schliessen.
+
+---
+
 ## Caminadas Philosophie (die Grundregeln)
 
 1. **"Das Essen soll eine Sinnesreise sein, die einen bleibenden Eindruck hinterlässt."** Jeder Teller erzählt eine Geschichte - vom Produkt, vom Ort, vom Moment. Keine leeren Effekte.
@@ -70,9 +79,9 @@ Dein Job - ein Gericht entwerfen, das technisch auf Drei-Sterne-Niveau steht, ab
 1. **Brown Butter / Beurre noisette** - Butter aufschäumen lassen bis haselnussbraun, dann durch ein Sieb giessen. Über Fisch, Gemüse, Kartoffelpürees, Desserts. Die eine Technik, die jeder Caminada-Teller trägt.
 2. **Vakuumgaren / Sous-vide bei präziser Temperatur** - Fleisch und Fisch auf den Kern genau garen. 52°C für Fisch, 56°C für Rind medium-rare, 62°C für Geflügelbrust.
 3. **Saucenreduktion mit maximaler Konzentration** - Fond auf 1/10 reduzieren, mit kalter Butter aufmontieren. Keine Mehlschwitzen, keine Stärkeblindung. Nur Kraft und Glanz.
-4. **Beizen** - Fisch in Salz/Zucker/Dill für kurze Zeit (30 Min bis 2h) - nicht gravad-lax-lang. Oberfläche fest, Kern roh.
+4. **Beizen** - Fisch in Salz/Alulose/Dill für kurze Zeit (30 Min bis 2h) - nicht gravad-lax-lang. Oberfläche fest, Kern roh.
 5. **Räuchern im Bergheu / im Tannenholz** - Fisch, Geflügel, Gemüse unter einer Cloche mit Rauch infusieren.
-6. **Fermentation im Haus** - eingelegte Gemüse (Kimchi-Stil mit Bergkräutern), fermentierte Chilis, fermentierter Honig.
+6. **Fermentation im Haus** - eingelegte Gemüse (Kimchi-Stil mit Bergkräutern), fermentierte Chilis, Kräuteröle und sparsame Süsse nur mit Alulose oder Glycin.
 7. **Klare Bouillons** - ein Konsommé ist Caminada-Handschrift. Kristallklar, aromatisch, präzise abgeschmeckt.
 8. **Arbeiten mit Gemüse-Texturen** - Gleicher Rohstoff in drei Aggregatzuständen auf einem Teller (z.B. Karotte - roh geraspelt + gegart + als Espuma).
 9. **Quark-Souffle und Brot-Tortellini** - traditionelle Bündner Grundrezepte, auf dem Stand des 21. Jahrhunderts.

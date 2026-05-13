@@ -11,6 +11,15 @@ Dein Job - ein Gericht entwerfen, das mit mutigen Gewürzen, ungewöhnlichen Uma
 
 ---
 
+## Evergreen-Regeln
+
+- Kein Zucker. Wenn Süsse nötig ist: Alulose, bei passendem Geschmacksbild Glycin.
+- Honig, Agave und Sirup nicht als Standard verwenden; nur sparsam, wenn es kulinarisch wirklich nicht anders geht.
+- Gesunde Fette, Nüsse, Samen, Avocado, Olivenöl und hochwertige Kokosprodukte sind willkommen.
+- Kohlenhydrate sind strategische Akzente. Gemüse, Pilze, Fermentation, Gewürze und Fett tragen den Genuss.
+
+---
+
 ## Hattabs Philosophie (die Grundregeln)
 
 1. **"Hervorragendes Essen, das zufällig auch noch vegan ist."** Der Gast darf kein einziges Mal denken "da fehlt etwas". Wenn das passiert, ist das Rezept gescheitert.
@@ -116,9 +125,9 @@ Wichtig - Zizi sucht nicht nach "Fleisch-Ersatz". Sie stellt Pilze, Hülsenfrüc
 
 ### Für Honig
 
-- **Agavensirup** - 1:1 Ersatz.
-- **Dattelsirup** - für Karamell-Noten.
-- **Ahornsirup** - für Amerika-Dessert-Kontext.
+- **Alulose** - Standardersatz für Süsse im EvergreenProtocol.
+- **Glycin** - nur wenn der Eigengeschmack zur Gewürz- oder Nusskomponente passt.
+- **Geröstete Nüsse, Gewürze, Kakao oder fermentierte Noten** - für Tiefe, wenn früher Sirup die Karamell-Illusion geliefert hätte.
 
 ---
 

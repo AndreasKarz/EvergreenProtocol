@@ -109,12 +109,14 @@ Der Schwerpunkt liegt auf Motivation. Viele Menschen mit gesundheitlichen Proble
 
 ## Ressourcen
 - [Meine Antiaging Playlist](https://youtube.com/playlist?list=PLriKR1xQz6aIDFCN1oKTB0zmASZ_qUOfX&si=tz11ODSx72V7aYbv)
+- [Patric Heizmann](https://www.youtube.com/@patricheizmann)
 - [Dr. Eric Berg](https://www.youtube.com/@Drberg)
 - [Dr. Sten Ekberg](https://www.youtube.com/@drekberg)
 - [Dr. med. Ulrich Selz](https://www.youtube.com/@DrUlrichSelz)
 - [Dr. med. Ulrich Bauhofer](https://www.youtube.com/@dr.ulrich.bauhofer)
 - [Doktor Weigl](https://www.youtube.com/@DoktorWeigl1)
 - [Fabian Kowallik](https://www.youtube.com/@ExiledMedicDe)
+- [Prof. Dr. Ingo Froböse](https://www.youtube.com/@formelfroboese)
 - [Bryan Johnson](https://www.youtube.com/@BryanJohnson)
 - [Dr. Adam Potts](https://www.youtube.com/@beginwithbreathtaichi)
 - [Vince Gironda](https://www.sportnahrung-engel.de/trainingsplaene/muskelaufbau-fortgeschrittene/8x8-training-vince-gironda)
@@ -128,17 +130,22 @@ Produkte immer über [iHerb](https://www.iherb.com/) bestellen, da es dort die g
 - [Instructions](Perplexity/Space Instructions.md)
 - [Me.template.md](Perplexity/Me.template.md) ist die Fallback-Vorlage; bevorzugt wird der `INIT`-Dialog, der eine persönliche `Me.md` erzeugt.
 
-### Skills
+Perplexity erlaubt maximal 5 Skill-Dateien pro Space. Der EvergreenProtocol Space lädt deshalb nur die 5 Kernskills hoch. Die Koch-Skills bleiben im separaten geteilten Kochteam-Space: [Dein Sterne-Küchenteam](https://www.perplexity.ai/spaces/dein-sterne-kuchenteam-9rId5ENEQbeT3QGoXQsI1Q).
+
+### Skills für diesen Space hochladen
+- Uploadfertige ZIPs: [Perplexity/upload/evergreenprotocol](Perplexity/upload/evergreenprotocol). Genau diese 5 Dateien in den EvergreenProtocol Space hochladen.
 - [notion-architect](Perplexity/skills/notion-architect)
 - [longevity-expert](Perplexity/skills/longevity-expert)
 - [personal-trainer](Perplexity/skills/personal-trainer) - Tai Chi, 8x8x8, Progression und Motivation.
 - [mental-coach](Perplexity/skills/mental-coach) - Stress, Wut, Ärger, stoische Übungen und Cortisol-Reset.
 - [face-yoga](Perplexity/skills/face-yoga) - Gesichtsyoga, Anti-Aging-Routinen, Rizinusöl und einfache Übungen nach Dr. Alekseev DE.
 
-#### Köche Skills
-Damit gesunde Küche auch schmeckt, sollen 5 top köche als skills bereit stehen. **Alle** Köche haben auf Zucker zu verzichten und stattdessen Alulose und Glycin zu verwenden. Honig nur wenn es nicht anders geht. Und immer das Motto "Fett ist gut, Kohlenhydrate sind böse" im Hinterkopf zu behalten. Es soll gezeigt werden, dass gesunde Ernährung nicht Verzicht bedeutet, sondern Genuss pur sein kann.
-- [Stefan Jäckel](Perplexity/skills/stefan-jaeckel) - Zürcher Umami, Rôtisserie, Sauce und High-Low-Genuss.
-- [Andreas Caminada](Perplexity/skills/andreas-caminada)
-- [Michel Guerard](Perplexity/skills/michel-guerard)
-- [Tim Armann](Perplexity/skills/tim-armann)
-- [Zineb Hattab](Perplexity/skills/zineb-hattab)
+#### Externer Kochteam-Space
+Damit gesunde Küche auch schmeckt, stehen 5 Top-Köche im separaten Space bereit. **Alle** Köche verzichten auf Zucker und verwenden stattdessen Alulose und Glycin. Honig nur, wenn es kulinarisch nicht anders geht. Das Motto bleibt: Fett ist gut, Kohlenhydrate sind strategisch. Es soll gezeigt werden, dass gesunde Ernährung nicht Verzicht bedeutet, sondern Genuss pur sein kann.
+- [Dein Sterne-Küchenteam](https://www.perplexity.ai/spaces/dein-sterne-kuchenteam-9rId5ENEQbeT3QGoXQsI1Q)
+- Uploadfertige ZIPs: [Perplexity/upload/dein-sterne-kuchenteam](Perplexity/upload/dein-sterne-kuchenteam). Genau diese 5 Dateien in den Kochteam-Space hochladen.
+- [Stefan Jäckel](Perplexity/external-spaces/dein-sterne-kuchenteam/skills/stefan-jaeckel) - Zürcher Umami, Rôtisserie, Sauce und High-Low-Genuss.
+- [Andreas Caminada](Perplexity/external-spaces/dein-sterne-kuchenteam/skills/andreas-caminada)
+- [Michel Guerard](Perplexity/external-spaces/dein-sterne-kuchenteam/skills/michel-guerard)
+- [Tim Armann](Perplexity/external-spaces/dein-sterne-kuchenteam/skills/tim-armann)
+- [Zineb Hattab](Perplexity/external-spaces/dein-sterne-kuchenteam/skills/zineb-hattab)

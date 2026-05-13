@@ -20,7 +20,7 @@ Use these in a `CREATE TABLE (...)` statement. Column names go in double quotes,
 | URL | `URL` | If the column name is literally "URL" or "url", set it via `"userDefined:URL"`. |
 | Email | `EMAIL` | |
 | Phone | `PHONE_NUMBER` | |
-| Files | `FILES` | File attachments. Cannot be created via API; must be uploaded through the UI or via the Notion file upload endpoint (not currently exposed by the MCP). |
+| Files | `FILES` | File attachments. Cannot always be created by the connector; if upload is not exposed, ask the user to upload through the Notion UI. |
 | Relation (one-way) | `RELATION('<data_source_id>')` | Target shows nothing back. |
 | Relation (two-way) | `RELATION('<data_source_id>', DUAL)` | Back-reference auto-named (e.g. "Related to Tasks"). |
 | Relation (two-way, named) | `RELATION('<data_source_id>', DUAL 'BackRef Name')` | Give the back-reference a meaningful name. |

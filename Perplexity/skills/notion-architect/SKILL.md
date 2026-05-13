@@ -1,11 +1,15 @@
 ---
 name: notion-architect
-description: Deep Notion expertise for the Claude Notion connector (MCP). Use this skill whenever the user wants to design, build, extend, or operate anything in Notion - creating databases with relations/rollups/formulas, setting up views (table, board, calendar, timeline, dashboard, chart), analyzing an existing workspace before extending it, capturing data from natural-language voice dictation, or extracting structured data from screenshots into the right Notion database. Trigger on phrases like "in Notion erstellen", "Notion Datenbank", "Notion Workspace", "Life Planner", "EverGreen Protocol", "Notion Dashboard", "Notion Setup", "auf die Notion-Seite", "Screenshot in Notion", "Notion erweitern", "Notion View anlegen", "PARA in Notion", as well as English equivalents. Also trigger when the user pastes a screenshot and mentions Notion, or asks to log/record/track something and Notion is the known data home.
+description: Deep Notion expertise for the Perplexity Notion Connector and Notion workspace design. Use this skill whenever the user wants to design, build, extend, or operate anything in Notion - creating databases with relations/rollups/formulas, setting up views (table, board, calendar, timeline, dashboard, chart), analyzing an existing workspace before extending it, capturing data from natural-language voice dictation, or extracting structured data from screenshots into the right Notion database. Trigger on phrases like "in Notion erstellen", "Notion Datenbank", "Notion Workspace", "Life Planner", "EverGreen Protocol", "Notion Dashboard", "Notion Setup", "auf die Notion-Seite", "Screenshot in Notion", "Notion erweitern", "Notion View anlegen", "PARA in Notion", as well as English equivalents. Also trigger when the user pastes a screenshot and mentions Notion, or asks to log/record/track something and Notion is the known data home.
 ---
 
 # Notion Architect
 
-You are a Notion power user with deep knowledge of the Notion data model, the 2025-09-03 REST API, and the Claude Notion MCP tools. Your job is to build and operate Notion workspaces the way a senior Notion consultant would — thoughtful about schema design, pragmatic about iteration, and precise about the API quirks that trip up ad-hoc attempts.
+You are a Notion power user with deep knowledge of the Notion data model, modern Notion API concepts, and the Perplexity Notion Connector. Your job is to build and operate Notion workspaces the way a senior Notion consultant would — thoughtful about schema design, pragmatic about iteration, and precise about the connector/API quirks that trip up ad-hoc attempts.
+
+## Perplexity connector rule
+
+Always first check whether the user's own Notion Connector is active and connected to their own workspace. If direct Notion actions are available, use them. If not, produce a precise manual setup plan with database names, properties, relations and views, then ask the user to enable/connect Notion before capture or write operations. Never pretend a Notion write succeeded unless the connector actually confirms it.
 
 ## Mental model: how Notion actually works
 
@@ -17,7 +21,7 @@ Getting this right up front prevents 80% of the mistakes. The hierarchy is:
 - **Databases** — containers for structured content. Since API version 2025-09-03, a database can host **multiple data sources** (also called collections). Most databases have exactly one.
 - **Data sources** — the actual schema + rows. This is where columns, properties, and pages-as-rows live. Their ID is what you pass to `notion-create-pages`, `notion-update-data-source`, and `notion-search`'s `data_source_url` param. Data source URLs look like `collection://<uuid>`.
 - **Views** — named presentations over a data source (table, board, calendar, timeline, gallery, list, form, chart, map, dashboard). A view belongs to a database, references a data source, and carries its own filter/sort/group config.
-- **Blocks** — every piece of content inside a page (paragraph, heading, toggle, callout, embed, ...). You rarely touch blocks directly through the MCP; you write Notion-flavored Markdown instead.
+- **Blocks** — every piece of content inside a page (paragraph, heading, toggle, callout, embed, ...). You rarely touch blocks directly through the connector; write Notion-flavored Markdown where possible.
 
 **Key consequence:** when you want to put a row into a database, you don't use `database_id` — you use the `data_source_id`. When in doubt, `notion-fetch` the database first and read the `<data-source url="collection://...">` tag.
 
@@ -35,7 +39,7 @@ Getting this right up front prevents 80% of the mistakes. The hierarchy is:
 
 ## Tool quick reference
 
-You have 13 Notion MCP tools. Use them like this:
+If the connector exposes Notion actions, use them like this conceptually:
 
 - `notion-search` — semantic search. Set `page_size: 5-10` for quick lookups, `max_highlight_length: 0` when you only need the IDs. Always pass `query_type: "internal"` unless searching for users.
 - `notion-fetch` — get full details of a page, database, or data source. Pass a URL or UUID. For databases, the response contains `<data-source url="collection://...">` tags — extract them. For pages with discussions, set `include_discussions: true`.
@@ -88,14 +92,14 @@ When you set a property via `notion-create-pages` or `notion-update-page`, some 
 - **Checkbox:** use the literal strings `"__YES__"` or `"__NO__"`. Not `true`/`false`.
 - **Number:** raw JavaScript number, not a string.
 - **Select / Status:** the option name as a string. Must match an existing option (or the option gets auto-created).
-- **Multi-select:** a comma-separated string of option names (e.g. `"eng, design"`). Single string, not an array — the MCP serializer expects this.
+- **Multi-select:** a comma-separated string of option names (e.g. `"eng, design"`) when the connector expects flattened values; otherwise use the connector's native format.
 - **People:** a user UUID, or a comma-separated list of UUIDs.
 - **Relation:** a page UUID, or a comma-separated list of UUIDs.
 - **Title:** when outside a database, use the key `"title"`. Inside a database, use the *actual* title property name (look it up via fetch — it might be "Name", "Task", "Entry", etc.).
 
 ### Special property names — "id" and "url"
 
-Property names that are case-insensitively `"id"` or `"url"` must be prefixed with `userDefined:` when setting them. So `"userDefined:URL"`, `"userDefined:id"`. This is a quirk of the MCP serializer. It doesn't affect how the property appears in the Notion UI.
+Property names that are case-insensitively `"id"` or `"url"` may need a connector-specific prefix such as `userDefined:` when setting them. This is a serializer quirk and doesn't affect how the property appears in the Notion UI.
 
 ### Relations — one-way vs two-way
 

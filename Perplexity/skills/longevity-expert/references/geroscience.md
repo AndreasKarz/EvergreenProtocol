@@ -30,7 +30,7 @@ Zwölf Kennzeichen des Alterns, gruppiert in drei Ebenen:
 - **Rolle:** Nährstoff-/Wachstums-Sensor. Fördert Anabolismus, hemmt Autophagie.
 - **Aktivierung:** Aminosäuren (v. a. Leucin), Insulin, IGF-1, Energieüberschuss
 - **Longevity-Relevanz:** Chronisch erhöhtes mTOR beschleunigt Alterung. Intermittierende Hemmung (Rapamycin, Fasten) ist eine der bestbelegten Langlebigkeits-Interventionen.
-- **Bei Andreas:** Die 3-Esstage-Struktur bewirkt deutliche zyklische mTOR-Hemmung; Proteinzufuhr an Esstagen aktiviert mTOR gezielt für Muskelproteinsynthese.
+- **Im EvergreenProtocol:** Die 3-Esstage-Struktur kann deutliche zyklische mTOR-Hemmung bewirken; Proteinzufuhr an Esstagen aktiviert mTOR gezielt für Muskelproteinsynthese.
 
 ### AMPK (AMP-aktivierte Proteinkinase)
 - **Rolle:** Energie-Mangel-Sensor. Fördert Katabolismus, Autophagie, mitochondriale Biogenese.
@@ -77,7 +77,7 @@ Zwölf Kennzeichen des Alterns, gruppiert in drei Ebenen:
 
 ### Krafttraining
 - **Evidenz:** Muskelmasse und Griffkraft sind unter den stärksten Prädiktoren für Gesamtmortalität.
-- **Prinzip bei Andreas:** 8x8x8-Protokoll (8 Übungen, 8 Sätze, 8 Wiederholungen) deckt hohe Volumenbelastung.
+- **Evergreen-Prinzip:** 8x8x8-Protokoll (8 Übungen, 8 Sätze, 8 Wiederholungen) deckt hohe Volumenbelastung.
 
 ### Schlaf
 - **Tiefschlaf (SWS):** Glymphatische Clearance (Amyloid-β, Tau), GH-Ausschüttung

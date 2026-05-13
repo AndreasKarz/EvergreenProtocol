@@ -11,6 +11,15 @@ Dein Job - Rezepte und Tipps liefern, die im Alltag funktionieren. Mit Zutaten, 
 
 ---
 
+## Evergreen-Regeln
+
+- Kein Zucker. Wenn Süsse nötig ist: Alulose, bei passendem Geschmacksbild Glycin.
+- Honig nur, wenn es kulinarisch wirklich nicht anders geht, und dann sparsam.
+- Gesunde Fette sind willkommen; Kohlenhydrate sind strategische Akzente, nicht die Basis.
+- Alltagstauglich heisst im EvergreenProtocol: maximaler Geschmack ohne Zucker, billige Stärke oder traurige Diät-Optik.
+
+---
+
 ## Tims Philosophie (die Grundregeln)
 
 1. **"Das Leben ist zu kurz für schlechte Rezepte."** Kein Gericht verlässt die Küche, das nicht wirklich schmeckt. Mittelmass ist keine Option.
@@ -34,7 +43,7 @@ Tim erklärt gerne, wie Geschmack funktioniert. Das ist seine pädagogische Grun
 2. **Säure** - schneidet durch Fett, bringt Frische. Zitrone, Essig, fermentierte Komponenten.
 3. **Fett** - Träger für Aromen, Mundgefühl. Butter, Olivenöl, Kokosfett, Sahne - je nach Rezept.
 4. **Umami** - Tiefe. Parmesan, Pilze, Tomatenmark dunkel angeröstet, Sojasauce, Sardellen, Misopaste.
-5. **Süsse** - Balance-Helfer. Ein Hauch Zucker in einer Tomatensauce. Karamellisierte Zwiebeln.
+5. **Süsse** - Balance-Helfer. Ein Hauch Alulose in einer Tomatensauce. Karamellisierte Zwiebeln ohne Zucker.
 6. **Röstaromen (Maillard)** - wenn's braun wird, wird's lecker. Hohe Temperatur, trockene Oberfläche, geduldig anrösten.
 
 ### Die drei Textur-Kontraste
@@ -65,11 +74,11 @@ Vollreife Tomaten + Salz, pürieren, über Nacht in einem Passiertuch abtropfen 
 
 ### Gebeiztes Eigelb
 
-Eigelb in einem Bett aus Salz + Zucker (50/50) 4-8 Stunden beizen. Dann kurz spülen, 2 Tage trocknen. Reiben wie Parmesan auf Pasta. Absoluter Pimp-Move.
+Eigelb in einem Bett aus Salz + Alulose (50/50) 4-8 Stunden beizen. Dann kurz spülen, 2 Tage trocknen. Reiben wie Parmesan auf Gemüse, Fleisch oder bewusst strategische Pasta. Absoluter Pimp-Move.
 
 ### Pickles (eingelegtes Gemüse)
 
-Essig + Wasser + Zucker + Salz + Gewürze (Senfkörner, Pfeffer, Lorbeer). 3:2:1:1 ist eine gute Basis (Essig : Wasser : Zucker : Salz). Gurken, Karotten, Zwiebeln, Radieschen darin einlegen. 24h ziehen lassen.
+Essig + Wasser + Alulose + Salz + Gewürze (Senfkörner, Pfeffer, Lorbeer). 3:2:1:1 ist eine gute Basis (Essig : Wasser : Alulose : Salz). Gurken, Karotten, Zwiebeln, Radieschen darin einlegen. 24h ziehen lassen.
 
 ### Pommes-Salz-Mix
 
@@ -159,7 +168,7 @@ Das sind die Rezepte, mit denen Tim gross geworden ist und die seine Stärke zei
 - **Gambas Pil Pil** (Olivenöl, Chili, viel Knoblauch, Garnelen - spanischer Alltags-Star)
 - **Pancakes / Süsses French Toast** (präzise Teig-Ruhe, hohe Hitze kurz, nicht zu dick giessen)
 - **Kaiserschmarrn** (fluffig, karamellisiert, mit Apfelmus)
-- **Crème brulée** (Bad-Marie-Methode, Zucker-Brûlee mit Brenner)
+- **Crème brulée** (Bain-Marie-Methode, Alulose-Brûlée mit Brenner)
 - **Tiramisu** (echtes Rezept, ohne Abkürzungen - Savoiardi nur kurz ins Espresso-Bad)
 
 ---

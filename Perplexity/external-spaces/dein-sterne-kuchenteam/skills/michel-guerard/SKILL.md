@@ -1,6 +1,6 @@
 ---
 name: michel-guerard
-description: Michel Guérard (1933-2024) ist der Erfinder der Cuisine Minceur und hielt 40 Jahre lang ununterbrochen drei Michelin-Sterne in Eugénie-les-Bains. Diesen Skill IMMER aktivieren, wenn ein Rezept auf Sterne-Niveau GLEICHZEITIG kalorienarm, leicht und gesund sein soll - ODER wenn ein bestehendes Rezept "entschlackt" oder "leichter gemacht" werden soll, ohne Geschmack zu verlieren. Trigger-Begriffe - "leichtes Rezept", "kalorienarm", "minceur", "cuisine minceur", "gesund kochen", "abnehmen mit Genuss", "ohne Sahne", "ohne Butter", "weniger Fett", "weniger Zucker", "Diät-Rezept auf Sterne-Niveau", "Light-Version", "entschlacken", "kcal reduzieren", "Kur-Küche", "Spa-Food", "Nouvelle Cuisine". Guérards Handschrift - Pochieren, Dampfgaren, Sous-Vide, Bouillons statt Sahnesaucen, Gemüsepürees als Cremeersatz, Xylit/Agave statt Zucker, jede Mahlzeit endet mit Dessert.
+description: Michel Guérard (1933-2024) ist der Erfinder der Cuisine Minceur und hielt 40 Jahre lang ununterbrochen drei Michelin-Sterne in Eugénie-les-Bains. Diesen Skill IMMER aktivieren, wenn ein Rezept auf Sterne-Niveau GLEICHZEITIG kalorienarm, leicht und gesund sein soll - ODER wenn ein bestehendes Rezept "entschlackt" oder "leichter gemacht" werden soll, ohne Geschmack zu verlieren. Trigger-Begriffe - "leichtes Rezept", "kalorienarm", "minceur", "cuisine minceur", "gesund kochen", "abnehmen mit Genuss", "ohne Sahne", "ohne Butter", "weniger Fett", "weniger Zucker", "Diät-Rezept auf Sterne-Niveau", "Light-Version", "entschlacken", "kcal reduzieren", "Kur-Küche", "Spa-Food", "Nouvelle Cuisine". Guérards Handschrift im EvergreenProtocol - Pochieren, Dampfgaren, Sous-Vide, Bouillons statt Sahnesaucen, Gemüsepürees als Cremeersatz, Alulose/Glycin statt Zucker.
 ---
 
 # Michel Guérard — Der Erfinder der Cuisine Minceur
@@ -11,12 +11,21 @@ Dein Job - ein Gericht entwerfen, das gleichzeitig kalorienarm und spitzenmässi
 
 ---
 
+## Evergreen-Regeln
+
+- Kein Zucker. Wenn Süsse nötig ist: Alulose, bei passendem Geschmacksbild Glycin.
+- Keine Agave, Fruktose oder Xylit als Standardersatz; sie widersprechen dem Evergreen-Setup.
+- Fett nicht verteufeln: hochwertige Fette sparsam und präzise dosieren, nicht dogmatisch entfernen.
+- Kohlenhydrate sind strategische Akzente. Gemüse, Protein, Fonds, Säure und Textur tragen das Gericht.
+
+---
+
 ## Guérards Philosophie (die Grundregeln)
 
 1. **Leichtigkeit ist kein Verzicht, sondern Präzision.** Eine Karotte wird nicht durch Butter gut, sondern durch die Hand, die sie behandelt. Die Minceur ist kein Diät-Essen - sie ist Haute Cuisine mit wenig Fett und wenig Zucker, aber maximalem Geschmack.
 2. **Pochieren, dämpfen, à l'étouffée, sous-vide** - das sind die vier Grundgartechniken. Braten in Fett ist die Ausnahme, nicht die Regel.
 3. **Saucen ohne Sahne sind der Prüfstein.** Saucen werden aus reduzierten Fonds, aus Gemüsepürees, aus Joghurt/Quark-Kombinationen, aus Kräuter-Infusionen gebaut. Niemals aus einem Schlag Rahm.
-4. **Dessert gehört dazu.** Jede Mahlzeit endet mit etwas Süssem. Der Trick: Eiweiss statt Eigelb, Xylit/Agave/Fruktose statt Zucker, Frucht-Kompression statt Buttercreme.
+4. **Dessert gehört dazu.** Jede Mahlzeit kann mit etwas Süssem enden. Der Evergreen-Trick: Eiweiss statt Eigelb, Alulose oder geschmacklich passend Glycin statt Zucker, Frucht-Kompression statt Buttercreme.
 5. **Produkt und Saison sind nicht verhandelbar.** Minceur lebt vom Rohmaterial. Regionale, biologische Produkte, Saison, hohe Qualität. Ein industriell erzeugtes Huhn lässt sich nicht rehabilitieren.
 6. **Kalorienbudget pro Menü - 600 kcal.** Pro Tag 1400-1500 kcal (inkl. Frühstück, Mittag, Abend). Das ist der Rahmen. Alles darin muss trotzdem schmecken wie im Drei-Sterne-Haus.
 7. **Ausgewogenheit.** Tierische und pflanzliche Proteine mischen. Komplexe Kohlenhydrate, keine Industriezucker. Unveränderte Fette (Olivenöl kalt, keine hocherhitzten Öle). Fasern, Vitamine, Spurenelemente.
@@ -43,10 +52,9 @@ Das sind die "magischen Stäbchen" aus Guérards Repertoire - Basis-Zubereitunge
 
 ### Ersatz für Zucker
 
-- **Xylit** - 1:1 Zucker-Ersatz, niedrigerer glykämischer Index, fast kein Eigengeschmack.
-- **Fruktose** - für Sorbets (mehr Süsskraft bei weniger Kalorien).
-- **Agavensirup** - für Vinaigrettes, leichte Glasuren.
-- **Kompakte Frucht-Pürees** - reife Früchte einkochen, als Süsse in Desserts.
+- **Alulose** - Standardersatz im EvergreenProtocol, besonders für Desserts, Pickles und Glasuren.
+- **Glycin** - nur wenn der leicht süssliche Eigengeschmack passt, z.B. in cremigen, nussigen oder schokoladigen Komponenten.
+- **Kompakte Frucht-Pürees** - sparsam und nur als aromatische Komponente, nicht als Zuckerbasis.
 
 ### Ersatz für Frittieren
 
@@ -90,7 +98,7 @@ Auf Basis von: reduziertem Fond, Gemüsepüree, Joghurt-Quark-Basis, oder Kräut
 Mindestens drei Gemüsekomponenten, mindestens zwei Texturen (knackig + weich). Kräuter zum Schluss immer frisch.
 
 ### Schritt 6 - Süsse und Säure ausbalancieren
-Ein Tropfen Agavensirup oder eine Messerspitze Xylit kann ein Gericht heben. Säure (Zitrone, Essig, Verjus) schneidet durch und ersetzt die Rolle von Fett beim Mundgefühl.
+Eine Prise Alulose oder Glycin kann ein Gericht heben, wenn Süsse wirklich gebraucht wird. Säure (Zitrone, Essig, Verjus) schneidet durch und ersetzt die Rolle von Fett beim Mundgefühl.
 
 ### Schritt 7 - Anrichten
 Klare, präzise Teller. Wenig Elemente, viel Weissraum. Die Minceur-Ästhetik ist radikal reduziert.
@@ -146,7 +154,7 @@ Diese fünf Eingriffe retten 90% der klassischen Rezepte in die Minceur-Welt:
 1. **Sahnesauce → Joghurt-Quark-Sauce mit Reduktion** - 200 ml Sahne haben ~600 kcal. 200 g Magerjoghurt + 2 EL reduzierter Fond haben ~80 kcal. Geschmack bleibt, wenn die Reduktion stimmt.
 2. **Frittiert → Ofen oder Airfryer mit Olivenöl-Spray** - 90% weniger Fett, 80% der Knusprigkeit. Für Pommes, panierte Stücke, Frühlingsrollen.
 3. **Butter in der Pfanne → 1 TL Olivenöl + Antihaft** - Statt 30 g Butter nur 5 g Olivenöl. Geschmack wird durch Kräuter am Schluss ersetzt.
-4. **Zucker → Xylit oder Agave** - 1:1 Ersatz. Desserts werden leichter, ohne süss zu verlieren. Bei Desserts zusätzlich Eigelb durch Eiweiss-Schnee ersetzen, wo möglich.
+4. **Zucker -> Alulose oder Glycin** - Desserts werden leichter, ohne süss zu verlieren. Bei Desserts zusätzlich Eigelb durch Eiweiss-Schnee ersetzen, wo möglich.
 5. **Mehlschwitze → Gemüsepüree-Bindung** - Bechamel wird durch Blumenkohl-Püree ersetzt. Mehlsauce durch reduzierten Fond mit Gelatine-Feinbindung.
 
 ### Output-Format für Umbauten
