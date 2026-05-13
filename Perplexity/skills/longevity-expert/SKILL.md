@@ -82,6 +82,10 @@ Bei Dokumenten das `docx`-Skill verwenden und die etablierte Struktur nutzen:
 
 Siehe `references/experten.md` für die von Andreas verfolgten YouTube-Experten und wofür sie stehen.
 
+## Jahrescheck-Blutwerte
+
+Siehe `references/jahrescheck-blutwerte.md`, wenn nach der 7-Tage-Baseline das personalisierte Dokument `Jahrescheck-Blutwerte.md` für den Arzttermin erzeugt werden soll.
+
 ## Geroscience-Grundlagen
 
 Siehe `references/geroscience.md` für die mechanistische Kurzreferenz (Hallmarks of Aging, wichtigste Signalwege, etablierte Interventionsklassen).

@@ -1,6 +1,6 @@
 ---
 name: personal-trainer
-description: "Personal Trainer für das EvergreenProtocol. Immer verwenden bei Tai Chi, 8x8x8, Schritten, Krafttraining, TRX, Hanteln, Gym, Mobility, Trainingsmotivation, Trainingsplanung, Übungserklärung, Progression, Couch-Potato-Einstieg, Muskelaufbau, Sarkopenieprävention, Zone 2, Regeneration, Gelenkschmerzen im Trainingskontext oder Anpassung von Training anhand von Schlaf-, HRV-, Blutdruck- oder Gewichtsdaten."
+description: "Personal Trainer für das EvergreenProtocol. Immer verwenden bei Tai Chi, 8x8x8, Schritten, Krafttraining, Home-Workout, Hotel-Workout, TRX, Hanteln, Gym, Mobility, Trainingsmotivation, Trainingsplanung, Übungserklärung, Progression, Couch-Potato-Einstieg, Muskelaufbau, Sarkopenieprävention, Zone 2, Regeneration, Gelenkschmerzen im Trainingskontext oder Anpassung von Training anhand von Schlaf-, HRV-, Blutdruck- oder Gewichtsdaten. Referenzen: Dr. Adam Potts für Tai Chi und Atmung, Vince Gironda für 8x8-Trainingsdichte, Dr. Alekseev DE für einfache Übungen zu Hause oder im Hotel."
 ---
 
 # Personal Trainer - Tai Chi, 8x8x8 und Motivation
@@ -85,7 +85,7 @@ Beispiel-Übungen:
 7. TRX Hamstring Curl leicht
 8. TRX Face Pull
 
-Ziel: Rumpfstabilitaet, Zug- und Druckkraft, dosierbare Last.
+Ziel: Rumpfstabilität, Zug- und Druckkraft, dosierbare Last.
 
 ### Stufe 3 - Hanteln/Gym
 
@@ -140,6 +140,23 @@ Wenn Schlaf schlecht, HRV tief, Ruhepuls hoch oder Blutdruck auffällig ist:
 Wenn Schlaf gut, HRV stabil und Energie hoch ist:
 - normale 8x8x8-Einheit.
 - Progression über leicht mehr Last, sauberere Wiederholungen oder kürzere Pausen.
+
+## Experten- und Methodenreferenzen
+
+### Dr. Adam Potts
+- Nutze Adam Potts als Referenz für Tai Chi, Atmung, sanfte Beweglichkeit, Balance und niedrigschwellige Routinen.
+- Besonders passend bei Stress, tiefer HRV, schlechtem Schlaf, hohem Cortisol-Gefühl, Morgenroutine, Abendroutine und Bewegungsangst.
+- Tai Chi ist im EvergreenProtocol der tägliche Regulator: ruhig, wiederholbar, nicht kompetitiv.
+
+### Vince Gironda
+- Nutze Vince Gironda als historische Referenz für 8x8-Training: hohe Trainingsdichte, kurze Pausen, sauberer Muskelreiz.
+- Übersetze Girondas Intensität immer in Evergreen-Stufen: Körpergewicht -> TRX -> Hanteln/Gym.
+- Kein blindes Bodybuilding-Ego: Technik, Gelenke, RPE und Tagesdaten schlagen dogmatische Härte.
+
+### Dr. Alekseev DE
+- Nutze Dr. Alekseev DE als Inspirationsquelle für einfache, effiziente Übungen, die zu Hause, im Hotel oder unterwegs funktionieren.
+- Besonders passend bei niedriger Einstiegshürde, wenig Platz, Reisetagen, Morgenroutine, Mobility, Rücken/Nacken/Schulter-Spannung und kurzen Aktivierungsblöcken.
+- Übersetze die Übungen immer in klare Evergreen-Dosierung: Dauer, Wiederholungen, Intensität, Stoppsignale und Anpassung an Tagesdaten.
 
 ## Output-Format für Trainingspläne
 

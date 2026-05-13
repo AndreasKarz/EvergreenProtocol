@@ -17,6 +17,10 @@ Die Ernährungsphilosophie ist klar: kein Zucker, wenig strategische Kohlenhydra
 
 Dazu kommt Bewegung: Tai Chi als tägliche Morgen- und Abendroutine, mindestens 8000 Schritte pro Tag sowie mindestens 3x pro Woche 8x8x8-Training. 8x8x8 soll für alle funktionieren, weil die Belastung skaliert wird: Anfänger starten mit Körpergewicht und sehr einfachen Übungen, danach folgt TRX, danach Hanteln oder Gym.
 
+Für einfache Übungen zu Hause, im Hotel oder unterwegs wird zusätzlich Dr. Alekseev DE als Trainingsquelle genutzt. Die Übungen sollen niedrigschwellig, effizient und ohne grosses Setup in den Daily Loop integrierbar sein.
+
+Für Stress, Wut, Ärger und mentale Selbstkontrolle ergänzt der `mental-coach` das Protocol mit stoischen Übungen, Atemtechniken, Reiz-Reaktions-Abstand und kurzen Cortisol-Resets. Als praktische Inspirationsquelle dient der Kanal `Der Stoiker`.
+
 Die Daten werden in einer persönlichen [Notion Datenbank](https://www.notion.so/) mit Dashboard und Kalender gesammelt, um Fortschritte zu verfolgen und Anpassungen vorzunehmen.
 
 ## Grundprinzipien
@@ -36,17 +40,21 @@ Die Daten werden in einer persönlichen [Notion Datenbank](https://www.notion.so
 ## Workflow
 
 ### Erste Schritte
-1. Prüfen, ob der Benutzer einen eigenen Notion-Account und einen leeren oder vorbereiteten Notion-Workspace besitzt. Falls nicht, erklärt der Space, wie man Notion einrichtet.
+1. Der neue Benutzer schreibt `INIT`. Dadurch startet der Space einen geführten Onboarding-Dialog und fragt die Informationen für seine persönliche `Me.md` einzeln ab.
 
-2. Prüfen, ob der Benutzer die `Perplexity/Me.md` hochgeladen hat. Falls nicht, stellt der Space die Vorlage bereit und erklärt: Datei herunterladen, ausfüllen, wieder in den Space hochladen.
+2. Am Ende von `INIT` generiert Perplexity eine vollständige `Me.md`. Der Benutzer lädt diese Datei herunter und fügt sie anschliessend in seiner eigenen Space-Session wieder hinzu.
 
-3. Die `Me.md` enthält mindestens Name, Vorname, Alter, Geschlecht, aktuelles Gewicht, Beruf, Notion-Link, Pain Points, aktuelle Diagnosen, aktuelle Medikamente, Supplemente sowie bekannte Allergien oder Unverträglichkeiten. Ziele, Trainingsstand und Essmuster werden danach im Gespräch und über die Baseline erhoben.
+3. Falls der Benutzer lieber manuell arbeitet, kann er die Fallback-Vorlage `Perplexity/Me.template.md` nutzen, ausfüllen und danach als persönliche `Me.md` hochladen.
 
-4. Danach prüfen, ob in Perplexity der Notion Connector aktiviert ist. Falls nicht, stellt der Space eine Anleitung bereit, wie man den Notion Connector aktiviert und mit dem eigenen Notion-Account verbindet.
+4. Die persönliche `Me.md` enthält mindestens Name, Vorname, Alter, Geschlecht, aktuelles Gewicht, Beruf, Notion-Link, Pain Points, aktuelle Diagnosen, aktuelle Medikamente, Supplemente sowie bekannte Allergien oder Unverträglichkeiten. Ziele, Trainingsstand und Essmuster werden danach im Gespräch und über die Baseline erhoben.
 
-5. Wenn alles eingerichtet ist, hilft der `notion-architect`, im persönlichen Notion-Workspace die Datenbanken, Relationen, Views, Kalender und das Dashboard zu erstellen.
+5. Danach prüfen, ob der Benutzer einen eigenen Notion-Account und einen leeren oder vorbereiteten Notion-Workspace besitzt. Falls nicht, erklärt der Space, wie man Notion einrichtet.
 
-6. Danach analysiert Perplexity die `Me.md` und trägt die Informationen in die Notion-Datenbanken ein.
+6. Danach prüfen, ob in Perplexity der Notion Connector aktiviert ist. Falls nicht, stellt der Space eine Anleitung bereit, wie man den Notion Connector aktiviert und mit dem eigenen Notion-Account verbindet.
+
+7. Wenn alles eingerichtet ist, hilft der `notion-architect`, im persönlichen Notion-Workspace die Datenbanken, Relationen, Views, Kalender und das Dashboard zu erstellen.
+
+8. Danach analysiert Perplexity die `Me.md` und trägt die Informationen in die Notion-Datenbanken ein.
 
 ### Baseline schaffen
 Die ersten 7 Tage dienen dazu, eine Baseline zu schaffen. Der Benutzer lädt jeden Morgen seine Daten als Screenshot in den Perplexity Space hoch: Gewicht, Körperanalyse, Blutdruck, Puls, Schlafqualität, Schlafdauer, Tiefschlaf, REM, HRV, Ruhepuls, Schritte und subjektives Befinden.
@@ -54,6 +62,8 @@ Die ersten 7 Tage dienen dazu, eine Baseline zu schaffen. Der Benutzer lädt jed
 Perplexity analysiert diese Daten, speichert sie in Notion und bewertet nicht einzelne Ausreisser, sondern Muster: 7-Tage-Mittelwert, Varianz, Trend, Korrelationen und auffällige Signale.
 
 Am Ende der Baseline erstellt Perplexity eine erste Supplementierung. Diese basiert auf Profil, Diagnosen, Medikamenten, bestehenden Supplementen, Schlafdaten, Stressmustern, Gewicht, Blutdruck, Pain Points und den im Onboarding geklärten Zielen. Die Supplementierung wird als Intervention in Notion dokumentiert und später im Daily Loop angepasst.
+
+Zusätzlich weist Perplexity den Benutzer im nächsten Chat darauf hin, beim Arzt einen Jahrescheck zu planen. Dafür generiert der Space ein Dokument `Jahrescheck-Blutwerte.md` mit einer nach Kategorien gruppierten Liste sinnvoller Blutwerte: Basislabor, Glukose- und Insulinstoffwechsel, Lipid- und Herz-Kreislauf-Risiko, Leber, Niere, Elektrolyte, Eisenstatus, Schilddrüse, Vitamine, Mineralstoffe, Harnsäure und kontextabhängige Hormone. Dieses Dokument ist eine Gesprächsgrundlage für den Arzt, keine Anordnung. Der Benutzer soll es herunterladen, zum Termin mitnehmen und anschliessend als Attachment zu seiner eigenen Space-Session hinzufügen. Sobald die Laborresultate vorliegen, lädt er auch den Laborbericht hoch, damit der Space die Werte in Notion speichern und die Empfehlungen besser personalisieren kann.
 
 #### Beispiel-Screenshots für den Baseline-Capture
 Die Dateien unter `Perplexity/.sample screenshots/` zeigen, wie Benutzer ihre Gesundheitsdaten später direkt in den Perplexity-Chat hochladen. Diese Screenshots sind keine Design-Mockups, sondern realistische Eingaben für die Extraktion und Speicherung in Notion.
@@ -104,21 +114,26 @@ Der Schwerpunkt liegt auf Motivation. Viele Menschen mit gesundheitlichen Proble
 - [Dr. med. Ulrich Selz](https://www.youtube.com/@DrUlrichSelz)
 - [Dr. med. Ulrich Bauhofer](https://www.youtube.com/@dr.ulrich.bauhofer)
 - [Doktor Weigl](https://www.youtube.com/@DoktorWeigl1)
+- [Fabian Kowallik](https://www.youtube.com/@ExiledMedicDe)
 - [Bryan Johnson](https://www.youtube.com/@BryanJohnson)
 - [Dr. Adam Potts](https://www.youtube.com/@beginwithbreathtaichi)
 - [Vince Gironda](https://www.sportnahrung-engel.de/trainingsplaene/muskelaufbau-fortgeschrittene/8x8-training-vince-gironda)
+- [Dr. Alekseev DE](https://www.youtube.com/@DoctorAlekseevDE)
+- [Der Stoiker](https://www.youtube.com/@der.stoiker)
 
 ## Supplements
 Produkte immer über [iHerb](https://www.iherb.com/) bestellen, da es dort die grösste Auswahl und die besten Preise gibt.
 
 ## Perplexity Space
 - [Instructions](Perplexity/Space Instructions.md)
-- [Me.md](Perplexity/Me.md) ist die Vorlage
+- [Me.template.md](Perplexity/Me.template.md) ist die Fallback-Vorlage; bevorzugt wird der `INIT`-Dialog, der eine persönliche `Me.md` erzeugt.
 
 ### Skills
 - [notion-architect](Perplexity/skills/notion-architect)
 - [longevity-expert](Perplexity/skills/longevity-expert)
 - [personal-trainer](Perplexity/skills/personal-trainer) - Tai Chi, 8x8x8, Progression und Motivation.
+- [mental-coach](Perplexity/skills/mental-coach) - Stress, Wut, Ärger, stoische Übungen und Cortisol-Reset.
+- [face-yoga](Perplexity/skills/face-yoga) - Gesichtsyoga, Anti-Aging-Routinen, Rizinusöl und einfache Übungen nach Dr. Alekseev DE.
 
 #### Köche Skills
 Damit gesunde Küche auch schmeckt, sollen 5 top köche als skills bereit stehen. **Alle** Köche haben auf Zucker zu verzichten und stattdessen Alulose und Glycin zu verwenden. Honig nur wenn es nicht anders geht. Und immer das Motto "Fett ist gut, Kohlenhydrate sind böse" im Hinterkopf zu behalten. Es soll gezeigt werden, dass gesunde Ernährung nicht Verzicht bedeutet, sondern Genuss pur sein kann.
